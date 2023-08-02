@@ -6,6 +6,7 @@ export default function DashboardPage(){
       <Layout title='Dashboard Page'>
         <main>
           <p>Dashboard Page</p>
+          <p>Dashboard Page 2</p>
         </main>
       </Layout>
     </>
